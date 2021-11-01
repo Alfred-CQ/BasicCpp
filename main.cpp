@@ -6,7 +6,7 @@ using namespace std;
 
 int main()
 {
-    // Sin objetos todavia ;
+    Style s_1("Font-size",15);
     cout << "Hola Git" << endl;
     return 0;
 }
