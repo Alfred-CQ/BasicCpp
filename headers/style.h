@@ -1,4 +1,5 @@
-#include <string,h>
+#include <iostream>
+
 class Style
 {
 	public:
