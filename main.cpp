@@ -6,6 +6,7 @@ using namespace std;
 
 int main()
 {
+    // Sin objetos todavia ;
     cout << "Hola Git" << endl;
     return 0;
 }
